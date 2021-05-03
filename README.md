@@ -4,8 +4,7 @@
 
 
 ### About 🙋🏻‍♂️
-```telethon
-
+```python
 A Little Team Of Bot Developers #Bigginers
 
 Members = "Vivek , 
