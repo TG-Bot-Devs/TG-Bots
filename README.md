@@ -28,7 +28,7 @@ print("Hello👋🏻")
 
 **Contributers:**
 
-<a href="https://github.com/TG-BOT-DEVS/TG-BOT-DEVS/Collaborators/devs.md">
+<a href="https://github.com/TG-BOT-DEVS/TG-BOT-DEVS/Collaborators/ReadMe.md">
   <img src="https://avatars.githubusercontent.com/u/82802951?v=4" width="30px"></h2>
   <img src="https://avatars.githubusercontent.com/u/76828314?v=4" width="30px"></h3>
   <img src="https://avatars.githubusercontent.com/u/79355885?v=4" width="30px"></h4>
