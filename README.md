@@ -20,3 +20,4 @@ who_we_are = ['Coding = ❣️']
 **Contributers:**
 
 <img src="https://github.com/TG-Bot-Devs/TG-Bot-Devs/blob/main/assets/Hacker-PNG-Image.png" width="30px"></h2>
+<img src="https://avatars.githubusercontent.com/u/76828314?v=4" width="30px"></h3>
