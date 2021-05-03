@@ -29,7 +29,7 @@ print("Hello👋🏻")
 **Contributers:**
 
 <a href="https://github.com/TG-BOT-DEVS/TG-BOT-DEVS/Collaborators/devs.md">
-  <img src="https://github.com/TG-Bot-Devs/TG-Bot-Devs/blob/main/assets/Hacker-PNG-Image.png" width="30px"></h2>
+  <img src="https://github.com/account" width="30px"></h2>
   <img src="https://avatars.githubusercontent.com/u/76828314?v=4" width="30px"></h3>
   <img src="https://avatars.githubusercontent.com/u/79355885?v=4" width="30px"></h4>
   <img src="https://avatars.githubusercontent.com/u/77770753?v=4" width="30px"></h5>
