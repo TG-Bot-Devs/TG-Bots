@@ -26,7 +26,8 @@ print("Hello👋🏻")
 
 ---
 
-**Contributers:**
+**Contributeors:**
+---
 
 <a href="https://github.com/TG-BOT-DEVS/TG-BOT-DEVS/Collaborators/ReadMe.md">
   <img src="https://avatars.githubusercontent.com/u/82802951?v=4" width="30px"></h2>
@@ -37,3 +38,5 @@ print("Hello👋🏻")
   <img src="https://avatars.githubusercontent.com/u/82400484?s=200&v=4" width="30px"></h7>
   <img src="https://avatars.githubusercontent.com/u/82491934?s=200&v=4" width="30px"></h8>
 </a>
+
+---
