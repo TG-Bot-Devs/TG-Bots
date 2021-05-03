@@ -25,6 +25,6 @@ who_we_are = ['Coding = ❣️']
 <img src="https://avatars.githubusercontent.com/u/77770753?v=4" width="30px"></h5>
 <img src="https://avatars.githubusercontent.com/u/78695802?v=4" width="30px"></h6>
 <img src="https://avatars.githubusercontent.com/u/82400484?s=200&v=4" width="30px"></h7>
-<img src="https://github.com/organizations/NEON-BOTZ/settings/profile" width="30px"></h8>
+<img src="https://avatars.githubusercontent.com/u/82491934?s=200&v=4" width="30px"></h8>
 <img src="https://avatars.githubusercontent.com/u/73241991?v=4" width="30px"></h9>
 <img src="https://avatars.githubusercontent.com/u/73241991?v=4" width="30px"></h10>
