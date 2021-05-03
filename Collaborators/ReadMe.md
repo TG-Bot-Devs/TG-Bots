@@ -1,11 +1,11 @@
 ### CONTRIBUTORS:
 
-- **[Vivek](github.com/Vivek-TP)**
+- **[Vivek](https://github.com/Vivek-TP)**
 
-- **[Fayas](github.com/FayasNoushad)**
+- **[Fayas](https://github.com/FayasNoushad)**
 
-- **[Uvindu Bro](github.com/uvindubro)**
+- **[Uvindu Bro](https://github.com/uvindubro)**
 
-- **[Itz Fork](github.com/itz-Fork)**
+- **[Itz Fork](https://github.com/itz-Fork)**
 
-- **[Rabbot Fored](github.com/RabbitFored)**
+- **[Rabbot Fored](https://github.com/RabbitFored)**
