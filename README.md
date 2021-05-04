@@ -12,7 +12,7 @@ who_we_are = ['Coding = ❣️']
 
 print("Hello👋🏻")
 ```
-<img src="https://github.com/TG-Bot-Devs/TG-Bots/blob/main/assets/1*vYnrJZvpMq6DO23esMFx-g.jpeg" width="90px"></h2>
+<img src="https://github.com/TG-Bot-Devs/TG-Bots/blob/main/assets/1*vYnrJZvpMq6DO23esMFx-g.jpeg" width="100px"></h1>
 
 [![telegram badge](https://img.shields.io/badge/TG-Devs-30302f?style=for-the-badge&logo=telegram)](https://t.me/TG_BOT_DEVS)
 [![mailid badge](https://img.shields.io/badge/TG-Devs-30302f?style=for-the-badge&logo=gmail)](mailto:tg.devs@telegmail.com)
