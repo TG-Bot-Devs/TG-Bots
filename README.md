@@ -20,8 +20,6 @@ print("Hello👋🏻")
 [![telegram badge](https://img.shields.io/badge/TG-Devs-30302f?style=for-the-badge&logo=telegram)](https://t.me/TG_BOT_DEVS)
 [![mailid badge](https://img.shields.io/badge/TG-Devs-30302f?style=for-the-badge&logo=gmail)](mailto:tg.devs@telegmail.com)
 
----
-
 **Contributeors:** `7`
 
 <a href="https://github.com/TG-Bot-Devs/TG-Devs/blob/main/Collaborators/ReadMe.md">
@@ -33,5 +31,3 @@ print("Hello👋🏻")
   <img src="https://avatars.githubusercontent.com/u/82400484?s=200&v=4" width="30px"></h7>
   <img src="https://avatars.githubusercontent.com/u/82491934?s=200&v=4" width="30px"></h8>
 </a>
-
----
