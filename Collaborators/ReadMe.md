@@ -9,3 +9,5 @@
 - **[Itz Fork](https://github.com/itz-Fork)**
 
 - **[Rabbot Fored](https://github.com/RabbitFored)**
+
+- **[Sample Bot](https://github.com/SampleBot)** [Bot]
