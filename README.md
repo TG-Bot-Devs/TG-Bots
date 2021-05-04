@@ -22,7 +22,7 @@ print("Hello👋🏻")
 
 ---
 
-**Contributeors:** 7
+**Contributeors:** `7`
 
 <a href="https://github.com/TG-Bot-Devs/TG-Devs/blob/main/Collaborators/ReadMe.md">
   <img src="https://avatars.githubusercontent.com/u/82802951?v=4" width="30px"></h2>
