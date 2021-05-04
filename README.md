@@ -7,16 +7,13 @@
 ```python
 A Little Team Of Bot Developers #Bigginers
 
-Members = "Vivek , 
-          Fayas ,
-          Uvindu Bro , 
-          I Am Not A Bot #Left-TG , 
-          Heiman Creation"
-
+Members = "Vivek , Fayas , Uvindu Bro , I Am Not A Bot #Left-TG , Heiman Creation"
 who_we_are = ['Coding = ❣️']
 
 print("Hello👋🏻")
 ```
+<img src="https://github.com/TG-Bot-Devs/TG-Bots/blob/main/assets/1*vYnrJZvpMq6DO23esMFx-g.jpeg" width="30px"></h2>
+
 [![telegram badge](https://img.shields.io/badge/TG-Devs-30302f?style=for-the-badge&logo=telegram)](https://t.me/TG_BOT_DEVS)
 [![mailid badge](https://img.shields.io/badge/TG-Devs-30302f?style=for-the-badge&logo=gmail)](mailto:tg.devs@telegmail.com)
 
