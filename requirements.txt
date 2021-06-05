@@ -1,0 +1,1 @@
+https://github.com/vivek-tp/Maintain-Bot/releases/download/v1.0/Maintain.py
